@@ -1,0 +1,11 @@
+{
+  "env": {
+    "db": {
+      "host": "sql3.freesqldatabase.com",
+      "user": "sql3652943",
+      "password": "MzUp3e7xAY",
+      "database": "sql3652943",
+      "port": 3306
+    }
+  }
+}
